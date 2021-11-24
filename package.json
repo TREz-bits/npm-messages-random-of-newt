@@ -14,7 +14,15 @@
   "author": "Axel Muñoz <axelskam.123@outlook.es>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TREz-bits/npm-messages-random-of-newt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TREz-bits/npm-messages-random-of-newt/issues"
+  },
+  "homepage": "https://github.com/TREz-bits/npm-messages-random-of-newt#readme"
 }
